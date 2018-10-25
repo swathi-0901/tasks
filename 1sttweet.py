@@ -1,15 +1,15 @@
 import tweepy
 
-akey = "JUuAx42iwjEhHPvBkrSrWFVqO"
-askey = "TbOouI9UXJGFhgK6BExvS1GbhFqpwv7fUEd6AREm8j05BFGlmj"
-atoken = "1053163840794312704-WaAk6sWEBApTtbyVXfpNRRHhM23amL"
-astoken = "x7ae5w3SbNS0lrWIJ3hccjc1TkwjBFN5GYRlVVWijsVo9"
+api_key = "JUuAx42iwjEhHPvBkrSrWFVqO"
+apisecret_key = "TbOouI9UXJGFhgK6BExvS1GbhFqpwv7fUEd6AREm8j05BFGlmj"
+access_token = "1053163840794312704-WaAk6sWEBApTtbyVXfpNRRHhM23amL"
+asecret_token = "x7ae5w3SbNS0lrWIJ3hccjc1TkwjBFN5GYRlVVWijsVo9"
 
 
 
-auth = tweepy.OAuthHandler(akey,askey)
-auth.set_access_token(atoken,astoken)
+auth = tweepy.OAuthHandler(api_key,apisecret_key)
+auth.set_access_token(access_token,asecret_token)
 auth.secure = True
 api = tweepy.API(auth)
-tweet1 = " this is my first tweet"
+tweet1 = " hello this is my 1st tweet - just to check with my python script"
 api.update_status(status = tweet1)
