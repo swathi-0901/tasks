@@ -1,6 +1,6 @@
 # **Task description**
 
-## Here is a brief description which was given by   **amFOSS** 
+## Here is a brief description of the work I did  given by   **amFOSS** 
 
 Here is  my  blog link in which I post about the works I have done [Miss_Flash blog ;)](https://wordpress.com/posts/missflash54.wordpress.com)
 
