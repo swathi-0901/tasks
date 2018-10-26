@@ -16,7 +16,7 @@ This is a simple python game done by me --- rock paper scissors game..
 
 ## Tweet
 
-This file consist of the code which help you to tweet using python script.
+This file consist of the code --- to tweet using python script.
 
 ### output of 1sttweet.py :
 ![tweet_view](https://user-images.githubusercontent.com/43814493/47562453-1fd33280-d93c-11e8-985a-d9951e53f348.png)
@@ -24,7 +24,7 @@ This file consist of the code which help you to tweet using python script.
 
 ## Mail
 
-This last one consist of the code which helps you to send a mail via CLI .
+This last one consist of the code --- to send a mail via CLI .
 
 ### output of 1stmail.py : 
 
