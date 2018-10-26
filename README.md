@@ -11,6 +11,7 @@ This repository consist of the tasks I've completed as mentioned above...
 This is a simple python game done by me which is more over a rock paper scissors game..
 
 ###output of game1 :
+![game_shot](https://user-images.githubusercontent.com/43814493/47562182-5a889b00-d93b-11e8-925f-7ee41f44b94d.png)
 
 
 ##Tweet
