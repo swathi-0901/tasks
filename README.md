@@ -27,3 +27,7 @@ This last one consist of the code which helps you to send a mail via CLI .
 
 ##output of 1stmail.py : 
 
+![output_view](https://user-images.githubusercontent.com/43814493/47562241-81df6800-d93b-11e8-9c48-3182888faf92.png)
+
+
+![sent_message](https://user-images.githubusercontent.com/43814493/47562377-e26ea500-d93b-11e8-949a-14b800ff0d2e.jpg)
